@@ -1,0 +1,24 @@
+{
+  "name": "fbbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GekiSoft/fbBot.git"
+  },
+  "author": "cerealac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GekiSoft/fbBot/issues"
+  },
+  "homepage": "https://github.com/GekiSoft/fbBot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
